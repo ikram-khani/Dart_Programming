@@ -1,5 +1,7 @@
 ///difinition
 ///same function or variable behave differently in different classes or operate in different way
+///same named functions with different number of arguments (function overloading)
+///example Area(a), Area(a,b), Area(a,b,c)
 void main(List<String> args) {
   var obj = new hr();
   obj.fun1();
