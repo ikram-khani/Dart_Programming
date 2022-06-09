@@ -18,7 +18,7 @@ void main(List<String> args) {
 }
 
 class cls {
-  thefunc() {
+  thefunc() async {
     print("LET'S START");
   }
 
